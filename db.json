@@ -1,0 +1,72 @@
+{
+  "clientes": [
+    {
+      "id": 4,
+      "nombre": "Miguel",
+      "telefono": 319381983,
+      "email": "miguel@juan.com",
+      "empresa": "Codigo Con Juan"
+    },
+    {
+      "id": 5,
+      "nombre": "Pedro",
+      "telefono": 1398198938,
+      "email": "pedro@juan.com",
+      "empresa": "Codigo Con Juan"
+    },
+    {
+      "nombre": "Claudio ",
+      "empresa": "Empresa",
+      "email": "cfalabella@hotmail.com",
+      "telefono": "678447365",
+      "notas": "No hay notas",
+      "id": 6
+    },
+    {
+      "nombre": "Nahuel",
+      "empresa": "Empresa",
+      "email": "mail@mail.com",
+      "telefono": "654654654",
+      "notas": "Nota",
+      "id": 7
+    },
+    {
+      "id": 4,
+      "nombre": "Miguel",
+      "telefono": 319381983,
+      "email": "miguel@juan.com",
+      "empresa": "Codigo Con Juan"
+    },
+    {
+      "id": 5,
+      "nombre": "Pedro",
+      "telefono": 1398198938,
+      "email": "pedro@juan.com",
+      "empresa": "Codigo Con Juan"
+    },
+    {
+      "nombre": "Claudio ",
+      "empresa": "Empresa",
+      "email": "cfalabella@hotmail.com",
+      "telefono": "678447365",
+      "notas": "No hay notas",
+      "id": 6
+    },
+    {
+      "nombre": "Nahuel",
+      "empresa": "Empresa",
+      "email": "mail@mail.com",
+      "telefono": "654654654",
+      "notas": "Nota",
+      "id": 7
+    },
+    {
+      "nombre": "Rosana",
+      "empresa": "Endulzando Momentos Tf",
+      "email": "mail@mail",
+      "telefono": "654654654",
+      "notas": "Nota",
+      "id": 8
+    }
+  ]
+}
